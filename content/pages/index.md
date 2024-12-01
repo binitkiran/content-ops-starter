@@ -34,7 +34,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Binit kiran
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
