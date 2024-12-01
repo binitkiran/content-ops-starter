@@ -1,5 +1,5 @@
 ---
-title: Mainpage
+title: Home
 slug: /
 sections:
   - type: GenericSection
