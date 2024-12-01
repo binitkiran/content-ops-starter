@@ -22,7 +22,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        alignItems: center
+        alignItems: flex-start
         flexDirection: row
         padding:
           - pt-28
