@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: 'Marketing Executive, Advisor, Mentor'
+    subtitle: ''
     text: |
       Marketing Executive, Advisor, Mentor
     actions: []
