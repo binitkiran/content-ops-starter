@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ADVISORY
+      text: Advisory
       color: text-dark
       styles:
         self:
