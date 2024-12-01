@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'MarketingExecutive, Advisor, Mentor'
+      text: ''
       color: text-dark
     subtitle: 'Marketing Executive, Advisor, Mentor'
     text: >
