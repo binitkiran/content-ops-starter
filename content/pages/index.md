@@ -158,8 +158,9 @@ sections:
       - title: Courses
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          The tutorial for Product Marketing Leadership, Copywriting in the age
+          of AI.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
