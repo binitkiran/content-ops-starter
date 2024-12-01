@@ -108,6 +108,13 @@ sections:
           placeholder: Your email
           isRequired: true
           width: full
+        - type: TextareaFormControl
+          name: message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          isRequired: false
+          width: full
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
