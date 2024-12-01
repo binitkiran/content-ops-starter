@@ -14,13 +14,7 @@ sections:
     text: >
       Advisory services to Startups, B2B enterprises, Marketing team in the
       tech, AI, and marketing data.
-    actions:
-      - type: Button
-        label: See open position
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
