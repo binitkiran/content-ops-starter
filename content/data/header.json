@@ -13,17 +13,6 @@
     },
     "primaryLinks": [
         {
-            "type": "Link",
-            "label": "Home",
-            "altText": "",
-            "url": "/home",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "label": "Advisory",
             "altText": "Advisory",
             "url": "/advisory",
