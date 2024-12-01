@@ -47,7 +47,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: ''
     text: >
       Binit advises at the centre of Tech/AI, Social, and Marketing Analytics.
 
