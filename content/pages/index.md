@@ -45,7 +45,7 @@ sections:
       styles:
         self:
           fontWeight: 500
-          textAlign: center
+          textAlign: justify
     subtitle: ''
     text: ''
     actions: []
