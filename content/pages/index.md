@@ -134,8 +134,9 @@ sections:
       - title: Advisory
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Binit provides advisory services to B2B SaaS firms, founders, and
+          marketing leaders.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
