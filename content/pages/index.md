@@ -36,7 +36,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/hero.svg
+      url: /images/avatar4.svg
   - title:
       text: ''
       color: text-dark
