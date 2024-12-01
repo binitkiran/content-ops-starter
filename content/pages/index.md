@@ -54,8 +54,9 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >+
-      Binit advises at the centre of Tech/AI, Social, and Marketing Analytics.
+    text: >
+      Binit advises at the centre of Tech, Artificial Intelligence, Social, and
+      Marketing Analytics.
 
 
       He is trained in Statistics and Marketing and has spent more than a decade
@@ -69,9 +70,6 @@ sections:
 
       Binit holds an MBA from Indian Institute of Management Indore and an MS
       from Indian Statistical Institute.
-
-
-
     colors: bg-light-fg-dark
     styles:
       self:
