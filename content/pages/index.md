@@ -29,6 +29,7 @@ sections:
           - pl-24
           - pb-16
           - pr-24
+        justifyContent: center
   - title:
       text: ''
       color: text-dark
