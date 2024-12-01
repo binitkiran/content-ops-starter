@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 700
-          textAlign: right
+          textAlign: center
     subtitle: ''
     text: ''
     actions: []
