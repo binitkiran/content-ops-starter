@@ -133,7 +133,7 @@ sections:
     items:
       - title: Advisory
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Binit provides advisory services to B2B SaaS firms, founders, and
           marketing leaders.
