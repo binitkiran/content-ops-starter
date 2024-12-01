@@ -9,9 +9,20 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Binit advises at the centre of Tech/AI, Social, and Marketing Analytics.
+
+
+      He is trained in Statistics and Marketing and has spent more than a decade
+      in growth and traction in early stage startups and tech consulting firms.
+
+
+      He brings deep institutional knowledge and hands-on experience to his work
+      and mission to decentralize information in tech, platforms, and marketing
+      analytics as an advisor and mentor.
+
+
+      Binit holds an MBA from Indian Institute of Management Indore and an MS
+      from Indian Statistical Institute.
     actions:
       - label: Get started
         altText: ''
