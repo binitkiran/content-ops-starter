@@ -131,7 +131,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Feature Item One
+      - title: Advisory
         tagline: ''
         subtitle: This is the item subtitle
         text: |
