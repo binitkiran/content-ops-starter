@@ -48,11 +48,21 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Binit advises at the centre of Tech/AI, Social, and Marketing Analytics.
+
+
+      He is trained in Statistics and Marketing and has spent more than a decade
+      in growth and traction in early stage startups and tech consulting firms.
+
+
+      He brings deep institutional knowledge and hands-on experience to his work
+      and mission to decentralize information in tech, platforms, and marketing
+      analytics as an advisor and mentor.
+
+
+      Binit holds an MBA from Indian Institute of Management Indore and an MS
+      from Indian Statistical Institute.
     badge:
       label: Key Benefits
       color: text-primary
