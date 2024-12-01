@@ -62,7 +62,7 @@ sections:
           - pt-28
           - pl-24
           - pb-16
-          - pr-16
+          - pr-24
   - title:
       text: ''
       color: text-dark
