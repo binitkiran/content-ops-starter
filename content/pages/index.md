@@ -161,7 +161,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: List of features here
+      text: Services
       color: text-primary
       styles:
         self:
