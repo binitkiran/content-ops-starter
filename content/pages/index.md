@@ -44,7 +44,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          fontWeight: 500
+          fontWeight: 700
           textAlign: center
     subtitle: ''
     text: ''
