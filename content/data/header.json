@@ -13,6 +13,17 @@
     },
     "primaryLinks": [
         {
+            "type": "Link",
+            "label": "See Tutorials",
+            "altText": "",
+            "url": "/hom",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Advisory",
             "altText": "Advisory",
             "url": "/advisory",
