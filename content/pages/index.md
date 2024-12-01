@@ -63,13 +63,6 @@ sections:
 
       Binit holds an MBA from Indian Institute of Management Indore and an MS
       from Indian Statistical Institute.
-    badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
