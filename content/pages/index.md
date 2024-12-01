@@ -4,28 +4,6 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: ''
-    text: |
-      Marketing Executive, Advisor, Mentor
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/hero3.svg
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-  - type: GenericSection
-    title:
       text: 'Marketing Executive, Advisor, Mentor'
       color: text-dark
       type: TitleBlock
