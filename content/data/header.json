@@ -22,7 +22,7 @@
         },
         {
             "label": "Advisory",
-            "altText": "Blog",
+            "altText": "Advisory",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
