@@ -29,7 +29,7 @@ sections:
           - pl-24
           - pb-16
           - pr-24
-        justifyContent: flex-start
+        justifyContent: flex-end
   - title:
       text: ''
       color: text-dark
