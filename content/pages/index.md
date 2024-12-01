@@ -7,13 +7,13 @@ sections:
       text: 'Marketing Executive, Advisor, Mentor'
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 400
+          textAlign: center
     subtitle: ''
     text: ''
     actions: []
-    media:
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
     badge:
       label: ''
       color: text-primary
@@ -22,30 +22,21 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        alignItems: center
+        alignItems: flex-end
         flexDirection: row
         padding:
-          - pt-16
-          - pl-16
+          - pt-28
+          - pl-24
           - pb-16
-          - pr-16
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
+          - pr-24
+        justifyContent: flex-end
+    media:
+      type: ImageBlock
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - title:
       text: ''
       color: text-dark
@@ -54,8 +45,9 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >+
-      Binit advises at the centre of Tech/AI, Social, and Marketing Analytics.
+    text: >
+      Binit advises at the centre of Tech, Artificial Intelligence, Social, and
+      Marketing Analytics.
 
 
       He is trained in Statistics and Marketing and has spent more than a decade
@@ -69,9 +61,6 @@ sections:
 
       Binit holds an MBA from Indian Institute of Management Indore and an MS
       from Indian Statistical Institute.
-
-
-
     colors: bg-light-fg-dark
     styles:
       self:
