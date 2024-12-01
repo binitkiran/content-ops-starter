@@ -8,9 +8,8 @@ sections:
       text: ''
       color: text-dark
     subtitle: 'Marketing Executive, Advisor, Mentor'
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |
+      Marketing Executive, Advisor, Mentor
     actions: []
     media:
       type: ImageBlock
