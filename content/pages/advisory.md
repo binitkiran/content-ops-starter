@@ -68,7 +68,7 @@ sections:
   - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Recent posts
+      text: Case Studies
       color: text-dark
       styles:
         self:
