@@ -111,7 +111,7 @@ sections:
         - type: TextareaFormControl
           name: message
           label: Message
-          hideLabel: true
+          hideLabel: false
           placeholder: Your message
           width: full
       submitButton:
