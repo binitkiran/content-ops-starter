@@ -42,7 +42,7 @@
             "type": "Link",
             "label": "Courses",
             "altText": "",
-            "url": "/",
+            "url": "/courses",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
