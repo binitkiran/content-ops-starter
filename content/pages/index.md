@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: 'MarketingExecutive, Advisor, Mentor'
       color: text-dark
-    subtitle: Be in good company
+    subtitle: 'Marketing Executive, Advisor, Mentor'
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
