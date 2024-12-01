@@ -16,7 +16,7 @@ sections:
       tech, AI, and marketing data.
     actions:
       - type: Button
-        label: See open positions
+        label: See open position
         url: /
         icon: arrowRight
         iconPosition: right
