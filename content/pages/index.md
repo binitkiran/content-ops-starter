@@ -10,10 +10,6 @@ sections:
     subtitle: ''
     text: ''
     actions: []
-    media:
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
     badge:
       label: ''
       color: text-primary
