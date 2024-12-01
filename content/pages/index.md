@@ -29,7 +29,7 @@ sections:
           - pl-24
           - pb-16
           - pr-24
-        justifyContent: flex-end
+        justifyContent: center
     media:
       type: ImageBlock
       altText: Image alt text placeholder
