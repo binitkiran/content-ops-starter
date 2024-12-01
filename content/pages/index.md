@@ -74,7 +74,7 @@ sections:
         textAlign: center
     type: GenericSection
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
