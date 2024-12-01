@@ -42,6 +42,9 @@ sections:
       text: 'Marketing Executive, Advisor, Mentor'
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 500
     subtitle: ''
     text: ''
     actions: []
