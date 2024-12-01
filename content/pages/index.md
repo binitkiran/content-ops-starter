@@ -28,7 +28,7 @@ sections:
           - pt-28
           - pl-0
           - pb-16
-          - pr-24
+          - pr-0
         justifyContent: center
     media:
       type: ImageBlock
