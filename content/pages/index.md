@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          fontWeight: 700
+          fontWeight: 500
           textAlign: center
     subtitle: ''
     text: ''
@@ -22,14 +22,14 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        alignItems: flex-end
+        alignItems: center
         flexDirection: row
         padding:
-          - pt-28
-          - pl-24
-          - pb-16
-          - pr-24
-        justifyContent: flex-end
+          - pt-5
+          - pl-0
+          - pb-5
+          - pr-0
+        justifyContent: center
     media:
       type: ImageBlock
       altText: Image alt text placeholder
