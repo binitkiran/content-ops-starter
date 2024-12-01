@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: BusinessConsulting
+      text: 'Marketing Executive, Advisor, Mentor'
       color: text-dark
     subtitle: Be in good company
     text: >
