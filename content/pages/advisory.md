@@ -113,7 +113,7 @@ sections:
           label: Message
           hideLabel: false
           placeholder: Your message
-          width: full
+          width: 1/2
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
