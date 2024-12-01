@@ -131,16 +131,14 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: ''
-    text: |+
-      *   Advisory
-
-          *   Binit provides advisory services to B2B SaaS firms, founders, and marketing leaders.
+    text: >+
 
 
+      Advisory
 
-      *   Courses
 
-          *   Product marketing, Copywriting in the age of AI
+      Binit provides advisory services to B2B SaaS firms, founders, and
+      marketing leaders.
 
 
 
