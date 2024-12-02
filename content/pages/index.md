@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: 'Marketing Executive, Advisor, Mentor'
-      color: text-light
+      color: text-neutral
       type: TitleBlock
       styles:
         self:
